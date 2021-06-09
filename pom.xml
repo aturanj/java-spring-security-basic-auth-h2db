@@ -12,8 +12,8 @@
     <groupId>io.aturanj</groupId>
     <artifactId>spring-security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-security</name>
-    <description>Demo project for Spring Boot</description>
+    <name>java-spring-security-basic-auth-h2db</name>
+    <description>Spring Boot/Security/Basic Auth/H2</description>
 
     <properties>
         <java.version>11</java.version>
